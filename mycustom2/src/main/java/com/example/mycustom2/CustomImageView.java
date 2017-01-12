@@ -15,7 +15,6 @@ import android.util.TypedValue;
 import android.view.View;
 
 /**
- * Created by ALun on 2017/1/6.
  */
 
 public class CustomImageView extends View {
